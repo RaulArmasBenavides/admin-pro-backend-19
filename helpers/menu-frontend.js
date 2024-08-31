@@ -22,6 +22,8 @@ const getMenuFrontEnd = (role = 'USER_ROLE') => {
             { titulo: 'Hospitales', url: 'hospitales' },
             { titulo: 'Médicos', url: 'medicos' },
             { titulo: 'Centros de Vacunación', url: 'centros' },
+            { titulo: 'dashboard1', url: 'dashboard1' },
+            { titulo: 'pacientes', url: 'pacientes' },
             // { titulo: 'Personal', url: 'personal' },
             // { titulo: 'Tiendas', url: 'tiendas' },
             // { titulo: 'Requerimientos', url: 'requerimientos' },
